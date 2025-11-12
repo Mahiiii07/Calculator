@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme{
+
+    --font-urbanist: 'Urbanist', sans-serif;
+    --color-dark-blue : #153677;
+    /* --spacing-icon: 18px;  */
+    --spacing-btn : 9.3rem;
+}
